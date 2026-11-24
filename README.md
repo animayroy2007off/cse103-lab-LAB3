@@ -28,7 +28,7 @@ cse103-lab-LAB3/
 | Meaningful commits    | Completed   |
 | Remote push / pull    | Completed   |
 | Markdown docs         | Completed   |
-| API interaction       | In Progress |
+| API interaction       | Completed   |
 
 ## How to Run
 
